@@ -1,2 +1,5 @@
 this is text file (line 1)
 this is text file (line 2)
+-----------------------
+this is text file (line 3)
+this is text file (line 4)
